@@ -1,4 +1,4 @@
-/* 
+/* Fall 2020
  This program has been created to view the content in a file based upon a specified limit.
  That specified limit is then used to allow a user to navigate through a file progressively
  by entering yes. 
