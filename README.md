@@ -6,4 +6,4 @@ Console Based file reading methods by default output a large chunk of text that'
 entirety of a file that's output into the console, if that's what you wish to do for whatever reason. 
 
 Solution:
-This program allows you to index and tab your way through a file progressively from beginning to end.
+This program allows you to index and tab your way through a file progressively from beginning to end, in the console.
